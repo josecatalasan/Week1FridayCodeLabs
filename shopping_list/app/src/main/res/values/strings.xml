@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">shopping_list</string>
+    <string name="add_item">Add Item</string>
+    <string name="banana">Banana</string>
+    <string name="bread">Bread</string>
+    <string name="title_activity_add_item">AddItemActivity</string>
+    <string name="eggs">Eggs</string>
+    <string name="cheese">Cheese</string>
+    <string name="milk">Milk</string>
+</resources>
