@@ -2,7 +2,7 @@
 
 ## TwoActivities
 
-Log statements were added to this project to keep track of the life cycle of activities within an application. The onSaveInstanceState method was overridden to preserve data between orientation switchs.
+Log statements were added to this project to keep track of the life cycle of activities within an application. The onSaveInstanceState method was overridden to preserve data between orientation switches.
 
 ## shopping_list
 
